@@ -186,6 +186,7 @@
   - [0454. 四数相加 II](./problems/454.4-sum-ii.md)
   - [0456. 132 模式](./problems/456.132-pattern.md) 🆕 👍
   - [0464. 我能赢么](./problems/464.can-i-win.md) 👍
+  - [0473. 火柴拼正方形](./problems/473.matchsticks-to-square.md) 🆕 👍
   - [0494. 目标和](./problems/494.target-sum.md)
   - [0516. 最长回文子序列](./problems/516.longest-palindromic-subsequence.md)
   - [0513. 找树左下角的值](./problems/513.find-bottom-left-tree-value.md) 91
@@ -198,6 +199,7 @@
   - [0686. 重复叠加字符串匹配](./problems/686.repeated-string-match.md)
   - [0714. 买卖股票的最佳时机含手续费](./problems/714.best-time-to-buy-and-sell-stock-with-transaction-fee.md) 👍
   - [0718. 最长重复子数组](./problems/718.maximum-length-of-repeated-subarray.md)
+  - [0735. 行星碰撞](./problems/735.asteroid-collision.md) 🆕
   - [0754. 到达终点数字](./problems/754.reach-a-number.md) 👍
   - [0785. 判断二分图](./problems/785.is-graph-bipartite.md) 👍
   - [0790. 多米诺和托米诺平铺](./problems/790.domino-and-tromino-tiling.md) 👍
@@ -229,6 +231,7 @@
   - [1031. 两个非重叠子数组的最大和](./problems/1031.maximum-sum-of-two-non-overlapping-subarrays.md)
   - [1043. 分隔数组以得到最大和](./problems/1043.partition-array-for-maximum-sum.md) 👍
   - [1104. 二叉树寻路](./problems/1104.path-in-zigzag-labelled-binary-tree.md) 👍
+  - [1129. 颜色交替的最短路径](./problems/1129.shortest-path-with-alternating-colors.md)
   - [1131.绝对值表达式的最大值](./problems/1131.maximum-of-absolute-value-expression.md) 👍
   - [1186. 删除一次得到子数组最大和](./problems/1186.maximum-subarray-sum-with-one-deletion.md) 👍
   - [1218. 最长定差子序列](./problems/1218.longest-arithmetic-subsequence-of-given-difference.md) 👍
@@ -247,6 +250,7 @@
   - [1658. 将 x 减到 0 的最小操作数](./problems/1658.minimum-operations-to-reduce-x-to-zero.md)
   - [1697. 检查边长度限制的路径是否存在](./problems/1697.checking-existence-of-edge-length-limited-paths.md)
   - [1737. 满足三条件之一需改变的最少字符数](./problems/1737.change-minimum-characters-to-satisfy-one-of-three-conditions.md) 👍
+  - [1834. 单线程 CPU](./problems/1834.single-threaded-cpu.md) 🆕
 
 - [第六章 - 高频考题（困难）](collections/hard.md)
 
@@ -290,6 +294,7 @@
   - [0483. 最小好进制](./problems/483.smallest-good-base.md)
   - [0488. 祖玛游戏](./problems/488.zuma-game.md)
   - [0493. 翻转对](./problems/493.reverse-pairs.md)
+  - [0664. 奇怪的打印机](./problems/664.strange-printer.md) 🆕
   - [0679. 24 点游戏](./problems/679.24-game.md) 🆕
   - [0715. Range 模块](./problems/715.range-module.md) 🆕
   - [0768. 最多能完成排序的块 II](./problems/768.max-chunks-to-make-sorted-ii.md) 91
@@ -312,6 +317,8 @@
   - [1649. 通过指令创建有序数组](./problems/1649.create-sorted-array-through-instructions.md)
   - [1671. 得到山形数组的最少删除次数](./problems/1671.minimum-number-of-removals-to-make-mountain-array.md)
   - [1707. 与数组中元素的最大异或值](./problems/5640.maximum-xor-with-an-element-from-array.md)
+  - [1723. 完成所有工作的最短时间](./problems/1723.find-minimum-time-to-finish-all-jobs.md) 🆕
+  - [1787. 使所有区间的异或结果为零](./problems/1787.make-the-xor-of-all-segments-equal-to-zero.md) 🆕
   - [1835. 所有数对按位与结果的异或和](./problems/1835.find-xor-sum-of-all-pairs-bitwise-and.md) 🆕
 
 - [后序](epilogue.md)
